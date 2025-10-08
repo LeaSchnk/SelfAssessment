@@ -10,12 +10,12 @@
   - GRASP
   - SOLID
   - CQS
-  - Modularity
-  - Subsystems
+  - Modularity *
+  - Subsystems ~
   - Directories
   - Leaking abstractions
   - Multiparadigm code
-  - Contract programming
+  - Contract programming ~
   - Platform-agnostic
   - Transport-agnostic
   - Framework-agnostic
@@ -29,8 +29,8 @@
   - Flexibility
   - Law of Demeter (LoD)
 - Application architecture
-  - Isolation between layer
-  - Domain-specific language (DSL)
+  - Isolation between layer ~
+  - Domain-specific language (DSL) *
   - System vs applied code
   - Multilayer approach
   - Hexagonal architecture
@@ -48,9 +48,9 @@
   - CQRS
   - Event sourcing
   - E-R data modeling
-  - Entity-relationship diagram
+  - Entity-relationship diagram *
   - IDEF1X
-  - UML
+  - UML *
   - Work breakdown structure
   - Budget estimation
   - Distributed systems
@@ -58,10 +58,10 @@
   - Load balancing
   - Gateways
   - On-premises
-  - IaaS
-  - PaaS
-  - SaaS
-  - FaaS clouds
+  - IaaS ~
+  - PaaS ~
+  - SaaS ~
+  - FaaS clouds ~
   - Serverless
   - Vendor lock-in
   - Bus factor
@@ -69,14 +69,14 @@
   - A software requirements specification (SRS)
   - Solution visions
   - Solution capabilities
-  - System design
-  - Process modelling
-  - Data modelling
+  - System design ~
+  - Process modelling *
+  - Data modelling ~
   - Solution components
   - Risk assessment
   - Non Functional Requirements (NFR)
   - Clouds
-  - BPMN
+  - BPMN *
   - Low-code
   - No-code
   - Metric
@@ -85,7 +85,7 @@
   - CAP theorem
   - Single source of truth (SSOT)
 - Enterprise architecture
-  - Understanding business needs
+  - Understanding business needs ~
   - Enterprise strategy
   - Integration with subsystems
   - Enterprise vision
@@ -93,11 +93,11 @@
   - Project scope
   - Enterprise service bus
   - Service-oriented architecture
-  - Microservices
+  - Microservices ~
   - Process choreography
   - Service orchestration
-  - Data warehouse
-  - Business Intelligence
+  - Data warehouse ~
+  - Business Intelligence ~
   - OLAP
   - OLTP
   - Conways Law
