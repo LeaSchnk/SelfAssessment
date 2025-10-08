@@ -2,13 +2,13 @@
 
 - Theory
   - Procedural programming
-  - Imperative programming
-  - Structured programming
+  - Imperative programming ~
+  - Structured programming ~
   - Non-structured programming
-  - Functional programming
+  - Functional programming ~
   - Prototype-based programming
-  - Object-oriented programming
-  - Object-based programming
+  - Object-oriented programming *
+  - Object-based programming *
   - Generic programming
   - Concurrent computing
   - Asynchronous programming
@@ -29,22 +29,22 @@
 - OOP basics
   - Constructor
   - Operator `new`
-  - Static method
-  - Method
+  - Static method *
+  - Method*
   - Async method
-  - Getters, Setters
-  - Public fields
-  - Private fields
+  - Getters, Setters*
+  - Public fields~
+  - Private fields~
   - Field declarations
   - Inheritance
-  - Parent class
+  - Parent class~
   - Polymorphism
-  - Abstract class
-  - Interface
+  - Abstract class*
+  - Interface*
   - Encapsulation
   - Hidden class
   - Object form
-  - Instance
+  - Instance*
   - Introspection
   - Reflection
   - The diamond problem
