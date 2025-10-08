@@ -37,14 +37,14 @@
   - Memory and resource management
   - Globalization and localization
 - Network and Protocols
-  - HTTP/HTTPS support
+  - HTTP/HTTPS support *
   - WebSockets for real-time communication
   - TCP/UDP networking
-  - SSL/TLS for secure connections
+  - SSL/TLS for secure connections *
   - Efficient network communication with `gRPC`
   - HTTP/2 and HTTP/3 support
   - Network security (DDoS, XSS, CSRF prevention)
-  - Serialization and deserialization (JSON, XML)
+  - Serialization and deserialization (JSON, XML) ~
 - Testing and Debugging
   - Unit testing with frameworks like xUnit, NUnit
   - Integration testing
@@ -73,8 +73,8 @@
   - Custom middleware development
 - Cloud and Microservices
   - Integration with cloud platforms (Azure, AWS)
-  - Microservices architecture
-  - Containerization with Docker
+  - Microservices architecture ~
+  - Containerization with Docker ~
   - Kubernetes for orchestration
   - Serverless computing
 - C# Development
@@ -103,7 +103,7 @@
   - Office automation and VSTO
   - Migration strategies for legacy VB6 applications
 - C++/CLI Development Development
-  - C++ syntax and language fundamentals
+  - C++ syntax and language fundamentals ~
   - Interoperability between managed (.NET) and unmanaged (native) code
   - Memory management in mixed environments
   - `C++/CLI` syntax and usage
