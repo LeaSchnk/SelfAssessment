@@ -67,8 +67,8 @@
   - Protocol agnostic approach
   - Fetch API
   - IncomingMessage
-  - HTTP(S)
-  - TCP/SSL
+  - HTTP(S) ~
+  - TCP/SSL ~
   - UDP
   - TLS
   - Websocket
@@ -84,7 +84,7 @@
   - Path traversal
   - CSRF
   - DNS
-  - SQL injection
+  - SQL injection ~
   - noDelay
   - keep-alive
   - IP sticky sessions
@@ -102,8 +102,8 @@
   - Console
   - Inspector
 - Data access
-  - Data access layer
-  - Repository
+  - Data access layer ~
+  - Repository *
   - Active record
   - Query builder
   - Object-Relational Mapping
@@ -117,9 +117,9 @@
   - `error.stack`
   - `Error.captureStackTrace`
   - How to avoid mixins
-  - Uncaught exceptions
+  - Uncaught exceptions ~
   - Heap dump
-  - Debugging tools
+  - Debugging tools ~
   - Flame graph
   - Memory leaks
   - Resource leaks
